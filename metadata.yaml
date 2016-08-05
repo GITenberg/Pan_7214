@@ -1,0 +1,49 @@
+_repo: Pan_7214
+_version: 0.0.1
+contributor:
+  author_of_introduction:
+    agent_name: Björkman, Edwin
+    aliases:
+    - Björkman, Edwin August
+    - Bjorkman, Edwin
+    birthdate: 1866
+    deathdate: 1951
+    gutenberg_agent_id: '1677'
+    url: http://www.gutenberg.org/2009/agents/1677
+  translator:
+    agent_name: Worster, W. J. Alexander (William John Alexander)
+    aliases:
+    - Worster, William John Alexander
+    - Worster, W. W.
+    birthdate: 1882
+    deathdate: 1929
+    gutenberg_agent_id: '2514'
+    url: http://www.gutenberg.org/2009/agents/2514
+creator:
+  author:
+    agent_name: Hamsun, Knut
+    aliases:
+    - Pedersen, Knut
+    - Thode, Knut
+    - Gamsun, Knut
+    - Hamsund, Knut Pedersen
+    birthdate: 1859
+    deathdate: 1952
+    gutenberg_agent_id: '2376'
+    url: http://www.gutenberg.org/2009/agents/2376
+    wikipedia: http://en.wikipedia.org/wiki/Knut_Hamsun
+description: ''
+gutenberg_issued: '2005-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '7214'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Norway -- Fiction'
+- !lcc 'PT'
+- GITenberg
+title: Pan
+url: http://www.gutenberg.org/ebooks/7214
